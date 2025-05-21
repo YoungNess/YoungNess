@@ -1,6 +1,11 @@
-# 💫 About Me:
-## 👋 About Me<br><br>💻 Passionate about web development, design, and turning ideas into interactive experiences.  <br>🌍 I love building things that are clean, fast, and meaningful.  <br>🧠 Always learning — I believe curiosity is what keeps things moving forward.<br><br>🛠️ I’m currently working on:  <br>→ Frontend interfaces with a focus on smooth UX  <br>→ Bringing creative concepts to life through code  <br>→ Experimenting with new tools and ideas<br><br>🤝 I’m looking to collaborate on:  <br>→ Creative web projects  <br>→ UI/UX-focused apps  <br>→ Side quests with people who value good design and clean code<br><br>🌱 I’m currently learning:  <br>→ TypeScript & Angular  <br>→ API integrations and backend basics  <br>→ How to stay calm when everything crashes right before a deadline (you know, like during a long winter ❄️)<br><br>💬 Ask me about:  <br>→ Figma workflows  <br>→ Building solo web projects  <br>→ Making your UI feel alive<br><br>⚡ Fun fact:  <br>→ I spend way too long perfecting design details most people won’t notice.  <br>→ I may or may not have learned resilience from a few harsh winters in Westeros.
+## 🌟 Front-End Developer & Creative Technologist
 
+- 🎓 2nd-year student in Web & Multimedia in France  
+- 🎨 Passionate about design, storytelling, and sleek user interfaces  
+- 💻 Tech Stack: HTML, CSS, JavaScript, Angular, and exploring Tailwind & TypeScript  
+- 🌱 Learning: Figma, GSAP, and design systems  
+- 🔭 Currently building: A refined portfolio and experimenting with AI-enhanced UX  
+- ❄️ Sometimes feels like shipping projects is harder than surviving a northern winter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/youness-eddabachi-34698929b) 
